@@ -1,0 +1,10 @@
+# NOTE: Remember to update .editorconfig for new changes.
+
+* text=auto
+
+*.md text eol=lf
+*.sh text eol=lf
+*.bash text eol=lf
+
+*.png binary
+*.icns binary
