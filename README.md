@@ -30,7 +30,7 @@ Created by Steam fans with love. This project is not an official Steam product, 
 
 Code released under the [MIT License](LICENSE.txt).
 
-The app icon is created and published by Sebastien Dancer-Michel in [Behance: Icon Pack for OSX El Capitan][icon_link]. Sebastien, thanks for your work!
+The app icon is modified based on the awesome work by Sebastien Dancer-Michel in [Behance: Icon Pack for OSX El Capitan][icon_link]. Sebastien, thanks for your work!
 
 [icon_link]: https://www.behance.net/gallery/27829949/Icon-Pack-for-OSX-El-Capitan
 [dld_link]: https://github.com/Edditoria/Steamini/archive/refs/heads/main.zip
